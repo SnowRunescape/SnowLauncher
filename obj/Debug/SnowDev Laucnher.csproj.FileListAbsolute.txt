@@ -1,0 +1,9 @@
+C:\Users\bruno\source\repos\SnowDev Laucnher\SnowDev Laucnher\obj\Debug\SnowDev Laucnher.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\SnowDev Laucnher\SnowDev Laucnher\obj\Debug\SnowDev_Laucnher.SplashScreen.resources
+C:\Users\bruno\source\repos\SnowDev Laucnher\SnowDev Laucnher\obj\Debug\SnowDev_Laucnher.Properties.Resources.resources
+C:\Users\bruno\source\repos\SnowDev Laucnher\SnowDev Laucnher\obj\Debug\SnowDev Laucnher.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\SnowDev Laucnher\SnowDev Laucnher\bin\Debug\SnowDev Laucnher.exe
+C:\Users\bruno\source\repos\SnowDev Laucnher\SnowDev Laucnher\bin\Debug\SnowDev Laucnher.pdb
+C:\Users\bruno\source\repos\SnowDev Laucnher\SnowDev Laucnher\obj\Debug\SnowDev Laucnher.exe
+C:\Users\bruno\source\repos\SnowDev Laucnher\SnowDev Laucnher\obj\Debug\SnowDev Laucnher.pdb
+C:\Users\bruno\source\repos\SnowDev Laucnher\SnowDev Laucnher\obj\Debug\SnowDev_Laucnher.Launcher.resources
